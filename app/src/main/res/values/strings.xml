@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HolderView</string>
+
+    <string name="hello_world">Selecciona una opción</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="valores_array">
+        <item>Elem1</item>
+        <item>Elem2</item>
+        <item>Elem3</item>
+        <item>Elem4</item>
+        <item>Elem5</item>
+    </string-array>
+</resources>
